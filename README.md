@@ -97,6 +97,12 @@ Neovim Qt is in both the Debian and Ubuntu package repositories, and can be inst
 $ apt install neovim-qt
 ```
 
+#### Fedora
+
+```
+$ dnf install neovim-qt
+```
+
 #### Homebrew
 
 Homebrew supports Linux (sometimes called "Linuxbrew"); follow the MacOS Homebrew installation instructions.
